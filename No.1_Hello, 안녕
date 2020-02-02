@@ -5,3 +5,5 @@ import "fmt"
 func main() {
     fmt.Println("Hello, 안녕")
 }
+
+//output: Hello, 안녕
